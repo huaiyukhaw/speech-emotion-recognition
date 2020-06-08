@@ -19,3 +19,5 @@ Each of the 7356 RAVDESS files has a unique filename. The filename consists of a
 - Statement (01 = "Kids are talking by the door", 02 = "Dogs are sitting by the door").
 - Repetition (01 = 1st repetition, 02 = 2nd repetition).
 - Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
+
+This is a group effort with my friends — Yit Tyn, Zhi Qin, and Jing Xuan.
